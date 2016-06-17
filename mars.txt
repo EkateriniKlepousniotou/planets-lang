@@ -2,6 +2,7 @@ Cold and dry but everything is my favourite colour.
 The two moons are quite interesting.
 One is blue, the other yellow.
 
+are we creating a conflict ? --BB
 
 -- This is an addition from Bogdan Babych
 I have a added a few lines.
