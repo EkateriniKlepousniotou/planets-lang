@@ -3,7 +3,7 @@ The two moons are quite interesting.
 One is blue, the other yellow.
 
 
-This is an addition from Bogdan Babych
+-- This is an addition from Bogdan Babych
 I have a added a few lines.
 
 Bogdan Babych
